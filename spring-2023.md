@@ -3,3 +3,9 @@
 https://bit.ly/3lqDuUV
 
 https://bit.ly/42xUqt0
+
+**Week 2**
+
+https://bit.ly/3G0ppnW
+
+https://bit.ly/40KwAsr
