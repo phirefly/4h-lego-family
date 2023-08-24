@@ -4,6 +4,8 @@ https://bit.ly/3lqDuUV
 
 https://bit.ly/42xUqt0
 
+https://docs.google.com/presentation/d/1EhzceTfwyWvJstZzUg-Hrot1LSpAynXo/edit#slide=id.p1
+
 **Week 2**
 
 https://bit.ly/3G0ppnW
