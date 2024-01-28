@@ -14,4 +14,4 @@
 
 - Traverse the maze using the colors on the floor
   
-- [Building instructions]([https://education.lego.com/en-us/lessons/prime-kickstart-a-business/out-of-order](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt49da50c2bc43ea63/5ec9262c7976043edd42fb9f/out-of-order-bi-pdf-book1of1.pdf?locale=en-us)
+- [Building instructions](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt49da50c2bc43ea63/5ec9262c7976043edd42fb9f/out-of-order-bi-pdf-book1of1.pdf?locale=en-us)
