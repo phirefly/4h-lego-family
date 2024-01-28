@@ -5,3 +5,11 @@
 - if color is green, play angry cat sound and write "detected green" in the console.
 
 - if color is blue, play  barking sound and write "detected yellow" in the console.
+
+[Out of Order](https://education.lego.com/en-us/lessons/prime-kickstart-a-business/out-of-order/)
+
+- Traverse the maze walls to arrive at your destination
+
+- Attach a color sensor to use the guides on the floor
+
+- Traverse the maze using the colors on the floor
