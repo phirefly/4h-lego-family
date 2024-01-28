@@ -13,3 +13,5 @@
 - Attach a color sensor to use the guides on the floor
 
 - Traverse the maze using the colors on the floor
+
+[Building instructions](https://education.lego.com/en-us/lessons/prime-kickstart-a-business/out-of-order/)
